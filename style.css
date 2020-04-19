@@ -1,0 +1,75 @@
+*{
+	margin:0;
+}
+
+body{
+	background:#6F5617;
+}
+.content{
+	width: 100%;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-image: url(img/foto4.jpg);
+	position: absolute;
+	padding: 10%;
+	margin-bottom: 100px;
+	height:50px;
+}
+
+form {
+	margin-top:250px;
+	background-position: center;
+	position: relative;
+	font-family: 'Anton', sans-sabrilerif;
+	left: 50px;
+}
+
+h1{
+		font-family: 'Anton', sans-serif;
+		color:#fff; 
+
+
+}
+
+.titulo{
+	position:relative;
+	left:130px;
+	margin:20px;
+	color:#fff;
+}
+
+
+.titul{
+  position:relative;
+	left:150px;
+	margin:20px;
+	color:#fff;
+}
+.imgen p {
+	position: relative;
+   background-position: center; 
+   color:#fff;
+   font-family: 'Anton', sans-sabrilerif;
+
+}
+.futer{
+	background:#000;
+	position:absolute;
+	bottom: 0;
+    top:1150px;
+	display:grid;
+	width: 100%;
+	height: 100px;
+}
+
+.futer span {
+	position: relative;
+	font-size:30px;
+	color:#fff;
+	margin:20px;
+	top:20px;
+
+}
+
